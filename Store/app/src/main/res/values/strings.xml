@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Store</string>
+    <string name="input_text"></string>
+    <string name="input_second_number"></string>
+    <string name="click_substraction">-</string>
+    <string name="click_multoply">*</string>
+    <string name="click_division">/</string>
+    <string name="click_plus">+</string>
+    <string name="click_result">=</string>
+    <string name="click_zero">0</string>
+    <string name="click_one">1</string>
+    <string name="click_two">2</string>
+    <string name="click_three">3</string>
+    <string name="click_four">4</string>
+    <string name="click_five">5</string>
+    <string name="click_six">6</string>
+    <string name="click_seven">7</string>
+    <string name="click_eight">8</string>
+    <string name="click_nine">9</string>
+    <string name="click_dot">.</string>
+    <string name="text_result" />
+</resources>
