@@ -19,4 +19,6 @@
     <string name="click_nine">9</string>
     <string name="click_dot">.</string>
     <string name="text_result" />
+    <string name="input_enter">Ведіть значення</string>
+    <string name="categories">Categories</string>
 </resources>
